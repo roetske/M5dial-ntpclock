@@ -4,7 +4,7 @@ Press button ring to update ntp manually.<br />
 Automatic update ntp every 40min.<br />
 
 Started from example from Volos Projects. <br />
-When i started i could not compile it. <br />
+When i started i could not upload it, complained about bad partion. <br />
 Turned out when compiling with arduino ide. The partition scheme was nok.<br />
 Except for graphics made a lot of changes. <br />
 Especially use of rtc and ntp. I also like to work with a compact main module 
