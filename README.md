@@ -38,4 +38,4 @@ A hard thing is the use and programming of the touchscreen. I miss a tool to des
 arduino ide 2.3.2<br />
 chip m5dial<br />
 set partitionscheme to custom in tools. <br />
-It will then load partion automatically when uploading theflash from the partitons.csv that is included in the sketch.<br />
+When these setting and you compile and upload the code, arduino will load this csv file automatically and  custom partion and load the code.<br />
