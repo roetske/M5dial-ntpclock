@@ -1,5 +1,7 @@
 # M5dial-ntpclock
 Clock with m5dial rtc and ntp update.<br />
+Press button ring to update ntp manually.<br />
+Automatic update ntp every 40min.<br />
 When i started i could not compile it. <br />
 Turned out when compiling with arduino ide. The partition scheme was nok.<br />
 Started from example from Volos Projects. Except for graphics made a lot of changes. 
