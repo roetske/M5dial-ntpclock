@@ -46,7 +46,7 @@ to do should add wifi connection point to set via phone wifi credentials
 #include <ESP32Time.h>
 
 #include <TFT_eSPI.h>
-String version ="version3";
+String version ="version 4";
 //files for fonts
 #include "Noto.h"
 #include "smallFont.h"
