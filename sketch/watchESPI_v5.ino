@@ -54,12 +54,12 @@ String version ="version3";
 #include "bigFont.h"
 #include "secFont.h"
 //time
-const char* ssid="kelder"; 
-const char* password="Brugge1966";
+const char* ssid="your ssid"; 
+const char* password="your password wifi";
 const char* NTP_SERVER =  "0.europe.pool.ntp.org";        //set your timeserver
 const char* NTP_SERVER2 = "1.europe.pool.ntp.org";
 const char* NTP_SERVER3 = "2.be.pool.ntp.org"; 
-const char* TZ_INFO    = "CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"; //set your timezone
+const char* TZ_INFO    = "CET-1CEST-2,M3.5.0/02:00:00,M10.5.0/03:00:00"; //stimezone brussels
 
 tm timeinfo;
 int updateinterval = 40; //update to ntp in min interval
