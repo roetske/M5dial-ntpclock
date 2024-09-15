@@ -19,7 +19,7 @@ Based on project i found on youtube Volos Projects :https://www.youtube.com/watc
 Graphics are awesome.<br />
 
 thelastoutpostworkshop<br />
-**********************<br />
+*************************<br />
 I needed a tool to partition flash. (eg data partition for files fonts)
 Building partition scheme esp32 great tool to make partition for esp32.<br />
 https://thelastoutpostworkshop.github.io/microcontroller_devkit/esp32partitionbuilder<br />
