@@ -25,3 +25,8 @@ Everybody knows how much work it is to integrate display and buttons to a projec
 M5dial resolves this for you 45mm circle hole to drill into you project box and you have a <br />
 ready to use interface for your hardware.<br />
 A hard thing is the use and programming of the touchscreen. I miss a tool to design screens. <br />
+# remarks
+arduino ide 2.3.2<br />
+chip m5dial<br />
+set partitionscheme to custom in tools. <br />
+It will then load partion flash from the partitons.csv that is included in the sketch.<br />
