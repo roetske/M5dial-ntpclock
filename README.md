@@ -2,13 +2,15 @@
 Clock with m5dial rtc and ntp update.<br />
 Press button ring to update ntp manually.<br />
 Automatic update ntp every 40min.<br />
+
+Started from example from Volos Projects. <br />
 When i started i could not compile it. <br />
 Turned out when compiling with arduino ide. The partition scheme was nok.<br />
-Started from example from Volos Projects. Except for graphics made a lot of changes. 
+Except for graphics made a lot of changes. <br />
 Especially use of rtc and ntp. I also like to work with a compact main module 
 and then with sub inos to make it more structured to my personal liking.
 I tried to use autoconnect for interactive settings of wifi but it did not compile.
-Autoconnect works not v3 lib for esp32.
+Autoconnect works not with v3 lib for esp32 boards with arduino ide.
 
 # Credits
 Based on project i found on youtube Volos Projects :https://www.youtube.com/watch?v=hxD3pI0II-E&t=120s.<br />
